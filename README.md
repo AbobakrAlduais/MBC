@@ -7,7 +7,6 @@ Nodejs
 
 In your terminal, run "npm install"
 
-run node server.js
 
 npm run start-dev
 
