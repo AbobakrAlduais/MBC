@@ -7,7 +7,7 @@ Nodejs
 
 In your terminal, run "npm install"
 
-
+mongod
 npm run start-dev
 
 
@@ -17,3 +17,4 @@ NodeJs
 Express
 
 React.js
+MongoDB
